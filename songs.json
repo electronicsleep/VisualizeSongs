@@ -1,0 +1,13 @@
+{
+ "name": "flare", 
+ "children": [ 
+ { 
+  "name": "Songs",
+  "children": [
+{"name": "Doze Dream.mp3", "size": 25395978},
+{"name": "Memory Echo.mp3", "size": 14147859},
+{"name": "Nebula Guide.mp3", "size": 4938159}
+     ]
+    }
+   ]
+ }
