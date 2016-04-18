@@ -10,5 +10,7 @@ git clone git@github.com:electronicsleep/VisualizeSongs.git
 Open VisualizeSongs/visualize-songs.html
 ```
 
+![Alt text](screenshot.jpg?raw=true "ScreenShot")
+
 Resources:
 http://d3js.org
