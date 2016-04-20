@@ -5,7 +5,7 @@ Usage:
 ```
 Open Terminal
 
-git clone git@github.com:electronicsleep/VisualizeSongs.git
+git clone https://github.com:electronicsleep/VisualizeSongs.git
 
 Open VisualizeSongs/visualize-songs.html
 ```
